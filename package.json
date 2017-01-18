@@ -1,0 +1,11 @@
+{
+  "name": "flow-buffer-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Stephen Scott <me@suchipi.com> (http://suchipi.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.37.4"
+  }
+}
